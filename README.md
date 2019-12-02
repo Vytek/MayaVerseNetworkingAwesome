@@ -25,6 +25,9 @@ Networking Framework
 Tutorials
 
 - https://github.com/tom-weiland/tcp-udp-networking (https://www.youtube.com/playlist?list=PLXkn83W0QkfnqsK8I0RAz5AbUxfg3bOQ5)
+- https://docs.google.com/presentation/d/1D_bCbN8VOYtRKtdm4c38gk8kiyziBzVIYztBYhVy4EE/edit#slide=id.p
+ - https://github.com/hach-que/gcap2019_demos
+ - https://www.youtube.com/watch?v=HwrM6vlbdxQ
 - If you have anytime you can check this repo https://github.com/netcode-io/yojimbo.net.
 It is a wrapper for C# and I have created a simple game client and server with that repo for Unity. The result is perfect, it works. May be it helps you.
 
