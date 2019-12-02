@@ -14,4 +14,4 @@ Networking of Halo Reach: https://www.gdcvault.com/play/1014345/I-Shot-You-First
 
 Networking System for VR
 
-- [Lightweight and fully managed reliable UDP library.)](https://github.com/MidLevel/Ruffles)
+- [Lightweight and fully managed reliable UDP library.](https://github.com/MidLevel/Ruffles)
