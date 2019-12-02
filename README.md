@@ -19,7 +19,8 @@ Networking System for VR
 Networking Framework
 
 - https://www.socketweaver.com/index.html
-- 
+- https://normcore.io/
+- https://coherence.io/
 
 Tutorials
 
