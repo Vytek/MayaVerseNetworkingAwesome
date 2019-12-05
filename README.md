@@ -25,6 +25,7 @@ Networking Framework
 Tutorials
 
 - https://github.com/tom-weiland/tcp-udp-networking (https://www.youtube.com/playlist?list=PLXkn83W0QkfnqsK8I0RAz5AbUxfg3bOQ5)
+- https://wirewhiz.com/prototyping-multiplayer-on-a-single-pc/ https://archive.ph/UjrNt https://web.archive.org/web/20191205084408/https://wirewhiz.com/prototyping-multiplayer-on-a-single-pc/
 - https://docs.google.com/presentation/d/1D_bCbN8VOYtRKtdm4c38gk8kiyziBzVIYztBYhVy4EE/edit#slide=id.p
   https://github.com/hach-que/gcap2019_demos
   https://www.youtube.com/watch?v=HwrM6vlbdxQ
