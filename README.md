@@ -58,3 +58,4 @@ XR Toollkit
  - https://www.youtube.com/watch?v=KHWuTBmT1oI
  - https://www.youtube.com/watch?v=DB5bajOMdUQ
 - Udemy course: https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/
+- Avatars: https://readyplayer.me/
