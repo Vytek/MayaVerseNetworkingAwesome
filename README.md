@@ -45,4 +45,16 @@ VRTK v4.0.0 Beta + SteamVR 2.2 and Oculus
 - Unity Scripting with VRTK beta v4: https://www.youtube.com/watch?v=4APODj6rd1s
 - https://github.com/zachRudz/VRTK_Examples/blob/master/README_interactables.md
 - https://github.com/mattxreality/VR-OculusTemplate
-- 
+
+--
+
+#New System using Photon#
+
+XR Toollkit
+
+- https://skarredghost.com/2020/09/25/steamvr-unity-xr-interaction-toolkit-input/
+- Github Project: https://github.com/Vytek/multiplayeroculusquest
+- Valem course on Youtube: 
+ - https://www.youtube.com/watch?v=KHWuTBmT1oI
+ - https://www.youtube.com/watch?v=DB5bajOMdUQ
+- Udemy course: https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/
