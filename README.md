@@ -68,6 +68,10 @@ https://github.com/rthompsonj/EnetPrototype
 
 MiniNet:
 
-https://discord.com/channels/515987760281288707/589124849029480457/710693272242356295
-https://github.com/nxrighthere/ENet-CSharp/releases/tag/2.4.3
-https://github.com/SoftwareGuy/ENet-CSharp
+- https://discord.com/channels/515987760281288707/589124849029480457/710693272242356295
+- https://github.com/nxrighthere/ENet-CSharp/releases/tag/2.4.3
+- https://github.com/SoftwareGuy/ENet-CSharp
+- https://github.com/JohannesDeml/ENetUnityMobile
+- https://github.com/javawork/ENet-CSharp-Unity-Example
+- https://github.com/Vytek/ENETCSharpTestClient
+- https://github.com/Vytek/TestENETCSharp
