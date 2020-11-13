@@ -75,3 +75,11 @@ MiniNet:
 - https://github.com/javawork/ENet-CSharp-Unity-Example
 - https://github.com/Vytek/ENETCSharpTestClient
 - https://github.com/Vytek/TestENETCSharp
+
+# Using Normcore
+
+- https://normcore.io/documentation/xr-guides/xr-avatars-and-voice-chat.html
+- https://gist.github.com/Godatplay/5fe4335d518afc40f95be7a4ed47ae07
+- https://www.youtube.com/watch?v=J78uxCPO4rs
+- https://github.com/mikethevrguy/normcore-steamvr-tutorial-demo
+- 
