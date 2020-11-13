@@ -82,4 +82,5 @@ MiniNet:
 - https://gist.github.com/Godatplay/5fe4335d518afc40f95be7a4ed47ae07
 - https://www.youtube.com/watch?v=J78uxCPO4rs
 - https://github.com/mikethevrguy/normcore-steamvr-tutorial-demo
-- 
+- https://www.youtube.com/watch?v=ImoVyfCLXAc&list=PL8U6r3HT6h9pxdCbGzy4kVttJw4rs4FTU
+- https://arvrjourney.com/how-to-setup-a-basic-vr-multiplayer-ball-toss-using-normcore-d86f1476e87c
