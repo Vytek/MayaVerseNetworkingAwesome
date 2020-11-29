@@ -85,3 +85,7 @@ MiniNet:
 - https://www.youtube.com/watch?v=ImoVyfCLXAc&list=PL8U6r3HT6h9pxdCbGzy4kVttJw4rs4FTU
 - https://arvrjourney.com/how-to-setup-a-basic-vr-multiplayer-ball-toss-using-normcore-d86f1476e87c
 - [How To Add Multiplayer Features To VR Games | Normcore And Unity XR Toolkit](https://www.youtube.com/watch?v=T9UNM88YICc)
+
+# Using Lidgren
+
+- [LidgrenAndUnityExample](https://github.com/joeythelantern/LidgrenAndUnityExample)
