@@ -86,6 +86,7 @@ MiniNet:
 - https://arvrjourney.com/how-to-setup-a-basic-vr-multiplayer-ball-toss-using-normcore-d86f1476e87c
 - [How To Add Multiplayer Features To VR Games | Normcore And Unity XR Toolkit](https://www.youtube.com/watch?v=T9UNM88YICc)
 - [Test repo for Normal's "Normcore 2.0", using Unity XR Rig locomotion](https://github.com/tedbarnett/NormcoreXR)
+- https://github.com/dilmerv/XRToolKitWithNormcore
 
 # Using Lidgren
 
