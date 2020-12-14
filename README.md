@@ -80,11 +80,12 @@ MiniNet:
 
 - https://normcore.io/documentation/xr-guides/xr-avatars-and-voice-chat.html
 - https://gist.github.com/Godatplay/5fe4335d518afc40f95be7a4ed47ae07
-- https://www.youtube.com/watch?v=J78uxCPO4rs
+- [Unity + Normcore Player Lobby and Name Sync](https://www.youtube.com/watch?v=J78uxCPO4rs)
 - https://github.com/mikethevrguy/normcore-steamvr-tutorial-demo
 - https://www.youtube.com/watch?v=ImoVyfCLXAc&list=PL8U6r3HT6h9pxdCbGzy4kVttJw4rs4FTU
 - https://arvrjourney.com/how-to-setup-a-basic-vr-multiplayer-ball-toss-using-normcore-d86f1476e87c
 - [How To Add Multiplayer Features To VR Games | Normcore And Unity XR Toolkit](https://www.youtube.com/watch?v=T9UNM88YICc)
+- [Test repo for Normal's "Normcore 2.0", using Unity XR Rig locomotion](https://github.com/tedbarnett/NormcoreXR)
 
 # Using Lidgren
 
