@@ -103,6 +103,7 @@ MiniNet:
 
 All about SteamVR 2.x
 
+- VERY IMPORTANT: https://www.youtube.com/playlist?list=PLrk7hDwk64-YPtAkAwIOhlJuQzC2sP25G
 - [Unity SteamVR Setup For Unity 2019 | Unity VR Tutorial 2020](https://www.youtube.com/watch?v=7WL19SiZ98g)
 - https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
 - https://medium.com/@setzeus/tutorial-steamvr-2-0-laser-pointer-bbc816ebeec5
