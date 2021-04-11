@@ -108,6 +108,7 @@ All about SteamVR 2.x
 - https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
 - https://medium.com/@setzeus/tutorial-steamvr-2-0-laser-pointer-bbc816ebeec5
 - https://medium.com/@MrsDragos/steam-vr-updates-how-to-setup-teleport-mechanics-40b76001ae5a
+- (Mirror) https://archive.ph/MxWFP
 - https://github.com/ValveSoftware/steamvr_unity_plugin
 - https://valvesoftware.github.io/steamvr_unity_plugin/ 
 - https://wirewhiz.com/how-to-use-steamvr-2-0-input-in-unity/ 
