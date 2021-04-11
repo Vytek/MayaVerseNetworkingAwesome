@@ -50,7 +50,7 @@ VRTK v4.0.0 Beta + SteamVR 2.2 and Oculus
 
 # New System using Photon
 
-XR Toollkit
+XR Toolkit
 
 - https://skarredghost.com/2020/09/25/steamvr-unity-xr-interaction-toolkit-input/
 - Github Project: https://github.com/Vytek/multiplayeroculusquest
@@ -82,6 +82,7 @@ MiniNet:
 - https://gist.github.com/Godatplay/5fe4335d518afc40f95be7a4ed47ae07
 - [Unity + Normcore Player Lobby and Name Sync](https://www.youtube.com/watch?v=J78uxCPO4rs)
 - https://github.com/mikethevrguy/normcore-steamvr-tutorial-demo
+- https://github.com/mikethevrguy/Normcore-SteamVR-Tutorial
 - https://www.youtube.com/watch?v=ImoVyfCLXAc&list=PL8U6r3HT6h9pxdCbGzy4kVttJw4rs4FTU
 - https://arvrjourney.com/how-to-setup-a-basic-vr-multiplayer-ball-toss-using-normcore-d86f1476e87c
 - [How To Add Multiplayer Features To VR Games | Normcore And Unity XR Toolkit](https://www.youtube.com/watch?v=T9UNM88YICc)
@@ -99,3 +100,26 @@ MiniNet:
 - https://github.com/EnricoMonese/DayNightCycle
 - https://github.com/adrianpolimeni/RealTimeVolumetricClouds
 - https://github.com/charliebratches/Grass-Shader
+
+All about SteamVR 2.x
+
+- https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
+- https://medium.com/@setzeus/tutorial-steamvr-2-0-laser-pointer-bbc816ebeec5
+- https://github.com/ValveSoftware/steamvr_unity_plugin
+- https://valvesoftware.github.io/steamvr_unity_plugin/ 
+- https://wirewhiz.com/how-to-use-steamvr-2-0-input-in-unity/ 
+- https://www.raywenderlich.com/9189-htc-vive-tutorial-for-unity
+- https://connect.unity.com/p/steamvr-2-0-starter-migration-action-sets 
+- https://medium.com/@danielle.co3tz33/steamvr-2-2-0-new-input-system-tutorial-3fef5e275828
+- https://github.com/yusufalibrahim1994/SteamVR-Test-Two
+
+?create \steamvr2v3 - VRTK v3 isn't compatible with SteamVR 2.x but v4 is. The supported SteamVR version 1.2.3 for VRTK v3 can be downloaded here https://github.com/ValveSoftware/steamvr_unity_plugin/releases/download/1.2.3/SteamVR.Plugin.unitypackage Provisional SteamVR V2 support for VRTK v3.3 has been provided by community support and can be found at: https://github.com/WildStyle69/SteamVR_Unity_Toolkit/tree/feat/steamvr2-input-system
+Molto importante:
+
+
+Video
+* https://www.youtube.com/playlist?list=PLmc6GPFDyfw-zhd2OA6tE9nDYeJUmA8rW
+* https://www.youtube.com/playlist?list=PLmc6GPFDyfw83KiqUHZceuThGKoyO4hkt
+* https://www.youtube.com/playlist?list=PLmc6GPFDyfw9oYXHuQnskDaldAszkU8aG
+* https://www.youtube.com/playlist?list=PLmc6GPFDyfw-fku8fzGxucvEm1J3oDNix
+* Playlist: https://www.youtube.com/c/VRwithAndrew/playlists
