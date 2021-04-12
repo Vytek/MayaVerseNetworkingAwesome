@@ -105,6 +105,7 @@ All about SteamVR 2.x
 
 - VERY IMPORTANT: https://www.youtube.com/playlist?list=PLrk7hDwk64-YPtAkAwIOhlJuQzC2sP25G
 - [Unity SteamVR Setup For Unity 2019 | Unity VR Tutorial 2020](https://www.youtube.com/watch?v=7WL19SiZ98g)
+- [Book Versione 2 Building VR with Unity and SteamVR 2](https://github.com/psychicparrot/BuildingVRWithUnityAndSteamVR)
 - https://medium.com/@sarthakghosh/a-complete-guide-to-the-steamvr-2-0-input-system-in-unity-380e3b1b3311
 - https://medium.com/@setzeus/tutorial-steamvr-2-0-laser-pointer-bbc816ebeec5
 - https://medium.com/@MrsDragos/steam-vr-updates-how-to-setup-teleport-mechanics-40b76001ae5a
