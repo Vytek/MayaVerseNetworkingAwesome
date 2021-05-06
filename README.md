@@ -32,7 +32,8 @@ Tutorials
   https://github.com/hach-que/gcap2019_demos
   https://www.youtube.com/watch?v=HwrM6vlbdxQ
 - If you have anytime you can check this repo https://github.com/netcode-io/yojimbo.net.
-- [PlayerPhysicsSync Example Project (Unity / PUN 2)](https://github.com/ColeChittim/PlayerPhysicsSync) **Very inetresting example to use everyone **
+- [PlayerPhysicsSync Example Project (Unity / PUN 2)](https://github.com/ColeChittim/PlayerPhysicsSync) **Very interesting example to use everyone**
+
 It is a wrapper for C# and I have created a simple game client and server with that repo for Unity. The result is perfect, it works. May be it helps you.
 
 Here you can find the example repos.
