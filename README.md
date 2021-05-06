@@ -12,6 +12,8 @@ Valve wiki: https://developer.valvesoftware.com/wiki/Latency_Compensating_Method
 
 Networking of Halo Reach: https://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking
 
+In generale (Dealing With Latency in Real-Time Online Multiplayer Video Games): https://www.youtube.com/watch?v=aYX5TXMArTs
+
 Networking System for VR
 
 - [Lightweight and fully managed reliable UDP library.](https://github.com/MidLevel/Ruffles)
